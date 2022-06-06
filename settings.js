@@ -22,7 +22,7 @@ global.APIKeys = {
 global.owner = ['94711421243']
 global.premium = ['94711421243']
 global.ownernomer = '94711421243'
-global.ownername = 'Alpha'
+global.ownername = 'Dark Alpha'
 global.botname = 'Bixby MD'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/nexusNw'
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.thumb = fs.readFileSync('./GojoMedia/djt.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
