@@ -8,7 +8,7 @@
 
 > [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [darkalphaxteam](github.com/darkalphaxteam)
 
-> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
+> Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
 > If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/darkalphaxteam/Queen-Bixby-MD/blob//settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
