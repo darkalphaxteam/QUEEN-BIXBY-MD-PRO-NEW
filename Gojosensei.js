@@ -2060,7 +2060,7 @@ break
         n = result
         images = n[Math.floor(Math.random() * n.length)].url
         let buttons = [
-                    {buttonId: `gimage ${text}`, buttonText: {displayText: '️NEXT IMAGE️'}, type: 1}
+                    {buttonId: `img ${text}`, buttonText: {displayText: '️NEXT IMAGE️'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: images },
