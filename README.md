@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/PcQYF7c/djt.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/Hzy1S56/IMG-20220609-WA0091.jpg" alt="nz" width="350"/>
 </p>
 
 ## QUEEN BIXBY MD WHATSAPP BOT
