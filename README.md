@@ -4,7 +4,7 @@
 
 ## QUEEN BIXBY MD WHATSAPP BOT
 
-> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://youtu.be/uzMbW5v9QLE"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [darkalphaxteam](github.com/darkalphaxteam)
 
@@ -80,7 +80,7 @@ Add FFmpeg to PATH environment variable
 > pkg install wget
 > pkg install imagemagick -y
 > git clone https://github.com/darkalphaxteam/Queen-Bixby-MD
-> cd Gojo-Satoru
+> cd Queen-Bixby-MD
 > npm install
 ```
 </details>
