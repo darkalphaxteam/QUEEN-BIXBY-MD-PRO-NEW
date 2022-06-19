@@ -1,7 +1,7 @@
 {
   "name": "Queen Bixby MD Test ",
   "description": "Whatsapp MD Test Bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/Queen-Bixby-MD",
+  "repository": "https://github.com/Dasuwa1/Queen-Bixby-MD",
   "logo": "https://i.ibb.co/PcQYF7c/djt.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
