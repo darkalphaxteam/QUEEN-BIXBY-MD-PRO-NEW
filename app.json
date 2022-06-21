@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/e115d1bda25210ddba9ec.jpg",
+  "name": "Queen Bixby-MD",
+  "description": "WhatsApp MD bot build with nodejs",
+  "repository": "https://github.com/darkalphaxteam/Queen-Bixby-MD",
+  "logo": "https://i.ibb.co/PcQYF7c/djt.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
