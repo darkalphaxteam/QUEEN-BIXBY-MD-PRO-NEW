@@ -27,10 +27,11 @@
     <br> 
 </p>
 
-
+  <p align="center">
 <a href="https://github.com/darkalphaxteam/Queen-Bixby-MD/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
+    <p align="center">
 <a href="https://replit.com/@Afx-Abu/BIXBY-MD-QR?outputonly=1&lite=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
@@ -47,3 +48,6 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Queen-Bixby
    <br>
 # Contact for help:
    * Click [Contact](https://wa.me/94711421243) Here For Contact
+      </br> <p/>
+      <br>   <p align="center">
+💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
