@@ -32,7 +32,7 @@
 <br>
 <div>
     <p align="center">
-<a href="https://replit.com/@Afx-Abu/BIXBY-MD-QR?outputonly=1&lite=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@darkalphaxteam/Queen-Bixby-MD-Scanner"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 
