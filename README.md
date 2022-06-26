@@ -32,11 +32,11 @@
 <br>
 <div>
     <p align="center">
-<a href="https://replit.com/@darkalphaxteam/Queen-Bixby-MD-Scanner"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@darkalpha2003/Queen-Bixby-MD-Scanner-New-02?v=1?outputonly=1&lite=1#index.js)"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 
-1. Click [SCAN](https://replit.com/@Afx-Abu/BIXBY-MD-QR?outputonly=1&lite=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+1. Click [SCAN](https://replit.com/@darkalpha2003/Queen-Bixby-MD-Scanner-New-02?v=1?outputonly=1&lite=1#index.js)) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (session.js).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
