@@ -31,31 +31,16 @@
 
 </div>
 
-<p align="center">
-
-𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 𝙳𝙰𝚁𝙲𝙺 𝙰𝙻𝙿𝙷𝙰 𝚇𝚃𝙴𝙰𝙼
-
-    <br>
-
-       | © |
-
-        Reserved |
-
-    <br> 
+<p align="center">𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 𝙳𝙰𝚁𝙲𝙺 𝙰𝙻𝙿𝙷𝙰 𝚇𝚃𝙴𝙰𝙼<br>| © | Reserved  </br> 
 
 </p>
 
-  <p align="center">
-
-<a href="https://github.com/darkalphaxteam/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+  <p align="center"><a href="https://github.com/darkalphaxteam/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 
 <br>
 
-<div>
 
-    <p align="center">
 
-<a href="https://replit.com/@darkalpha2003/Queen-Bixby-MD-Scanner-New-02?v=1?outputonly=1&lite=1#index.js)"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 
 <br>
 
@@ -85,6 +70,4 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Queen-Bixby
 
       </br> <p/>
 
-      <br>   <p align="center">
-
-💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
+      <br>   <p align="center">💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
